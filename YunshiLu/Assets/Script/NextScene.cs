@@ -11,4 +11,9 @@ public class NextScene : MonoBehaviour
         
         SceneManager.LoadScene(ScreenName);
     }
+    public void exitGame()
+    {
+
+        Application.Quit();
+    }
 }

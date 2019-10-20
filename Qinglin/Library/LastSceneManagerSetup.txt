@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Scenes/Born.unity
+- path: Assets/Scenes/BasicHouse.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0

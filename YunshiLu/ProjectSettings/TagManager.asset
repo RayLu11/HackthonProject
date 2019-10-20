@@ -3,7 +3,10 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - door
+  - Certificate
+  - home
   layers:
   - Default
   - TransparentFX
@@ -46,4 +49,13 @@ TagManager:
     locked: 0
   - name: New Layer
     uniqueID: 2447598681
+    locked: 0
+  - name: player
+    uniqueID: 2380872739
+    locked: 0
+  - name: Text
+    uniqueID: 2523149343
+    locked: 0
+  - name: newText
+    uniqueID: 2894950811
     locked: 0
